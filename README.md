@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Vibhushitha+Uwanpriya;I'+am+a+2nd+yr+Undergraduate+at+LNBTI;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Vibhushitha+Uwanpriya;I'+am+a+3nd+yr+Undergraduate+at+LNBTI;Welcome+to+my+profile+!">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
